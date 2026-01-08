@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "file-search": {
+      "command": "python",
+      "args": ["C:/Users/areal/OneDrive/デスクトップ/AI_Python/FileSearchMCP/src/server.py"]
+    }
+  }
+}
